@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{26F8B95D-5B7C-D7BC-B804-2AED25157D46}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RW/Scripts/Managers/GameStateManager.cs">
+    <Files>
+      <File FileName="Assets/RW/Scripts/HayMachine.cs" Line="26" Column="6" />
+      <File FileName="Assets/RW/Scripts/Rotate.cs" />
+      <File FileName="Assets/RW/Scripts/Move.cs" />
+      <File FileName="Assets/RW/Scripts/DestroyOnTrigger.cs" />
+      <File FileName="Assets/RW/Scripts/Sheep.cs" />
+      <File FileName="Assets/RW/Scripts/SheepSpawner.cs" />
+      <File FileName="Assets/RW/Scripts/TweenScale.cs" />
+      <File FileName="Assets/RW/Scripts/DestroyTimer.cs" />
+      <File FileName="Assets/RW/Scripts/Managers/GameStateManager.cs" Line="49" Column="1" />
+      <File FileName="Assets/RW/Scripts/Managers/UIManager.cs" />
+      <File FileName="Assets/RW/Scripts/Title/StartButton.cs" />
+      <File FileName="Assets/RW/Scripts/Title/QuitButton.cs" />
+      <File FileName="Assets/RW/Scripts/Title/ChangeColorOnMouseOver.cs" />
+      <File FileName="Assets/RW/Scripts/Shared/HayMachineColor.cs" />
+      <File FileName="Assets/RW/Scripts/Shared/GameSettings.cs" />
+      <File FileName="Assets/RW/Scripts/Shared/HayMachineSwitcher.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Introduction to Scripting Part 1" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="RW" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Managers" expanded="True" />
+                  <Node name="Shared" expanded="True" />
+                  <Node name="Title" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="af8c83d1-4c8b-48f9-8984-323df577ecfb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

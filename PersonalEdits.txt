@@ -1,0 +1,4 @@
+Background music (title and game scenes)
+Changed the sound of DropSheep
+Changed the colors of Game over Text
+Added a You Win text
